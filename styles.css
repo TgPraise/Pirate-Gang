@@ -1832,6 +1832,15 @@ header .container {
     box-shadow: 0 8px 20px rgba(106, 61, 232, 0.5);
 }
 
+.zlytic{
+    color: #2905aa;
+    font-size: 1.2rem;
+}
+
+.zlytic:hover{
+    text-decoration: underline;
+}
+
 /* Responsive Styles */
 @media (max-width: 1024px) {
     .hero-title {
